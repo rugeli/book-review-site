@@ -1,0 +1,89 @@
+main {
+    font-family: sans-serif;
+    background: linear-gradient(white,#ca6702);
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
+ul.menu {
+    background: linear-gradient(#ee9b00,white);
+    font-size: xx-large;
+    text-align: center;
+    column-count: 2;
+    text-decoration: none;
+    padding:30px;
+    font-size: 40px;
+    font-family:sans-serif;
+    color:#ee9b00;
+    list-style-type:none;
+}
+
+ul.top-5-reviews {
+    font-size: x-large;
+    font-weight: bold;
+    list-style-type:none;
+}
+
+
+
+
+p {
+    line-height: 150%;
+    color: #9b2226;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    font-family: sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: bold;
+    color:#9b2226;
+}
+
+a:hover {
+    color:#94d2bd;
+}
+
+footer {
+    background-color:#ae2012;
+    font-weight: bold;
+    padding:10px;
+}
+
+.footer-line {
+    color:#ee9b00;
+    text-align: center;
+    
+}
+
+
+
+.header {
+    font-size: x-large;
+    font-weight: bold;
+    color: #ee9b00;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.book-title {
+    color:#9b2226;
+}
+
+section.book-pic{
+    background: linear-gradient(white,#edede9);
+}
+section.book-info {
+    background-color:#edede9;
+    line-height: 150%;
+}
+
